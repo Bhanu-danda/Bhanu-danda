@@ -1,5 +1,6 @@
-## Hi there 👋
-## Welcome to my GitHub profile
+## HI,I'M 
+BHANU PRASAD
+
 <!--
 **Bhanu-danda/Bhanu-danda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
