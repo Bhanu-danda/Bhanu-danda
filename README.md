@@ -1,23 +1,178 @@
-<h1 align="center">Hi 👋, I'm Bhanu Prasad</h1>
-<h3 align="center">DATA ENGINEER || DATA ANALYST</h3>
+<h1 align="center">Hello World, I'm Bhanu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanu-danda" alt="bhanu-danda" /></a> </p>
-
-- 🔭 I’m currently working on **Batch Processing**
-
-- 📫 How to reach me **dandabhanu116@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhanu_1115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhanu_1115" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhanu-prasad-reddy-b1431b282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanu-prasad-reddy-b1431b282/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bhanu_1853083/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhanu_1853083/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/bhanu1853083?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/bhanu1853083?tab=activity" height="30" width="40" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=5500&pause=900&color=FF1A41ED&background=A80E5B00&center=true&vCenter=true&width=450&height=61&lines=DATA+ANALYST+%7C+DATA+ENGINEER;Designing+Scalable+Data+Pipelines;SQL+%E2%80%A2+Python+%E2%80%A2+AWS;Always+Learning.+Always+Improving." alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanu-danda&show_icons=true&locale=en&layout=compact" alt="bhanu-danda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanu-danda&" alt="bhanu-danda" /></p>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/shahriar-hossain-arafat/](https://www.linkedin.com/in/bhanu-prasad-reddy-b1431b282/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://github.com/ShArafat58](https://github.com/Bhanu-danda)"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:dandabhanu116@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+***
+## 🧑‍💻 About Me
+
+📊 **Data Engineering & Data Analytics enthusiast** focused on building real-world data systems and end-to-end pipelines. Passionate about transforming raw data into meaningful insights using modern data tools and cloud technologies.
+
+⚙️ Currently developing hands-on projects involving **API data ingestion, ETL pipelines, cloud storage, and workflow orchestration** to gain industry-level experience in data engineering.
+
+📈 Actively strengthening skills in **SQL, Python, data modeling, and analytics**, with the goal of securing a data-focused role before graduation.
+
+🎓 **B.Tech Student (Graduating 2027)** — Computer Science  
+📊 **Aspiring Data Engineer | Data Analyst**  
+☁️ **Learning Cloud Data Engineering** (AWS • ETL • Pipelines)
+
+---
+## ⚡ Languages, Tools and Technologies
+
+<table>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td><strong>Editors</strong></td>
+    <td><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark">
+      <br>
+      SQL
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Libraries</strong></td>
+    <td><strong>Databases</strong></td>
+    <td><strong>Tools & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark">
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark&perline=15">
+      <br>
+      Excel • Power BI • AWS S3
+    </td>
+  </tr>
+
+</table>
+
+<hr>
+
+## 🏗️ Key Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech Stack</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td>🌦️ <a href="https://github.com/Bhanu-danda/weather-data-batch-processing ">Weather Data Engineering Pipeline</a></td>
+    <td>Python, AWS S3, Pandas, SQL</td>
+    <td>End-to-end batch data pipeline that ingests API data, processes Bronze/Silver/Gold layers, and produces analytics-ready datasets.</td>
+  </tr>
+
+  <tr>
+    <td>🍔 <a href="https://github.com/Bhanu-danda/Food-delivery-database-design">Food Delivery Database Design</a></td>
+    <td>SQL, Database Design, ER Modeling</td>
+    <td>Designed normalized database schema with relationships, constraints, and queries for a scalable food delivery system.</td>
+  </tr>
+    <tr>
+    <td>🔐 <a href="https://github.com/Bhanu-danda/Role-Based-Access-Control-RBAC-">Role-Based Access Control (RBAC)</a></td>
+    <td>SQL, Database Security, Access Control</td>
+    <td>Implemented Role-Based Access Control using SQL scripts to manage user permissions, roles, and secure database access for different user levels.</td>
+  </tr>
+    <tr>
+    <td>📊 <a href="https://github.com/YOUR-USERNAME/mutual-fund-analytics">Mutual Fund Performance & Investment Analytics</a></td>
+    <td>Power BI, DAX, Power Query, Data Analytics</td>
+    <td>Interactive Power BI dashboard analyzing mutual fund performance with KPI tracking, expense ratio comparison, category-wise analysis, and SIP & Lumpsum investment calculators for data-driven investment decisions.</td>
+  </tr>
+
+
+</table>
+
+<hr>
+
+## 📜 Certifications
+
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Organization</th>
+  </tr>
+
+  <tr>
+    <td>🏅 Oracle Analytics Cloud 2025 Certified Professional</td>
+    <td>Oracle</td>
+  </tr>
+
+  <tr>
+    <td>🤖 A Guide to Machine Learning with Data Science</td>
+    <td>CipherSchools</td>
+  </tr>
+
+  <tr>
+    <td>💻 Data Structures and Algorithms</td>
+    <td>Iamneo</td>
+  </tr>
+
+</table>
+
+<hr>
+
+## 🏆 Achievements
+
+<table>
+  <tr>
+    <th>Achievement</th>
+    <th>Date</th>
+  </tr>
+
+  <tr>
+    <td>💻 Completed <strong>300+ coding challenges</strong> across multiple coding platforms | <a href="[YOUR-LINK](https://www.geeksforgeeks.org/profile/bhanu1853083?tab=activity)">View Profile</a></td>
+    <td>Jan 2026</td>
+  </tr>
+
+  <tr>
+    <td>🚀 Participated in a <strong>24-hour Hackathon</strong> — Secured <strong>Top 5 Position</strong></td>
+    <td>Apr 2024</td>
+  </tr>
+
+</table>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhanu-danda&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-danda&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhanu-danda&theme=dark&hide_border=true" />
+</p>
+
+<hr>
+
+
+
+
+
+
+
+
