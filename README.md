@@ -143,7 +143,7 @@
   </tr>
 
   <tr>
-    <td>💻 Completed <strong>300+ coding challenges</strong> across multiple coding platforms | <a href="[YOUR-LINK](https://www.geeksforgeeks.org/profile/bhanu1853083?tab=activity)">View Profile</a></td>
+    <td>💻 Completed <strong>300+ coding challenges</strong> across multiple coding platforms | <a href="(https://www.geeksforgeeks.org/profile/bhanu1853083?tab=activity)">View Profile</a></td>
     <td>Jan 2026</td>
   </tr>
 
