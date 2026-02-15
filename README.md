@@ -159,20 +159,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhanu-danda&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-danda&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Bhanu-danda&theme=dark&hide_border=true" />
 </p>
 
 <hr>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhanu-danda&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+## 😄 Just for Fun
 
-
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl4YTNsMHB5a254OXVrc20xZ254ZTNoNDdvcDcxeDUxNG84cGNuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HJ0QZN8wGRIUhWbycs/giphy.gif" width="400"/>
+</p>
 
 
 
